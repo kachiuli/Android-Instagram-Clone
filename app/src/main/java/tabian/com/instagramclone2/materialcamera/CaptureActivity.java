@@ -1,7 +1,7 @@
 package tabian.com.instagramclone2.materialcamera;
 
 import android.app.Fragment;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import tabian.com.instagramclone2.materialcamera.internal.BaseCaptureActivity;
 import tabian.com.instagramclone2.materialcamera.internal.CameraFragment;

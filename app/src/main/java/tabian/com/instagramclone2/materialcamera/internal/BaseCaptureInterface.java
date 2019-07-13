@@ -1,12 +1,10 @@
 package tabian.com.instagramclone2.materialcamera.internal;
 
-import android.support.annotation.DrawableRes;
-import android.support.annotation.Nullable;
-import android.support.annotation.StringRes;
+import androidx.annotation.DrawableRes;
+import androidx.annotation.Nullable;
+import androidx.annotation.StringRes;
 
 import java.util.List;
-
-import tabian.com.instagramclone2.materialcamera.internal.*;
 
 /** @author Aidan Follestad (afollestad) */
 public interface BaseCaptureInterface {

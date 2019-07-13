@@ -2,10 +2,10 @@ package tabian.com.instagramclone2.Utils;
 
 import android.content.Context;
 import android.content.Intent;
-import android.media.Image;
-import android.support.annotation.LayoutRes;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
+
+import androidx.annotation.LayoutRes;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import android.util.Log;
 import android.view.GestureDetector;
 import android.view.LayoutInflater;
@@ -25,8 +25,6 @@ import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 import com.nostra13.universalimageloader.core.ImageLoader;
 
-import java.lang.reflect.Array;
-import java.security.PolicySpi;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
